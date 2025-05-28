@@ -1,2 +1,2 @@
 # FourierMamba
-Our paper 'FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining' has been accepted at ICML 2025.
+The code for this paper is currently being organized and will be made publicly available soon.
